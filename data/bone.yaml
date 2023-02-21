@@ -1,0 +1,17 @@
+path: D:\OneDrive\DATA\BoneAge_Detect\datasets
+train:
+  - bone_train.txt
+val:
+  - bone_val.txt
+test:
+  - bone_test.txt
+
+# Classes
+names:
+  0: MiddlePhalanx
+  1: DistalPhalanx
+  2: ProximalPhalanx
+  3: MCP
+  4: MCPFirst
+  5: Ulna
+  6: Radius
